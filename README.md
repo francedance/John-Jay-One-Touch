@@ -1,5 +1,5 @@
 # John-Jay-One-Touch
-My very first Android App made for students at John Jay
+My very first Android App made for students at John Jay back in 2015
 
 This is considered a prototype version of John Jay One Touch 1.1 available in Google Playstore 
 
